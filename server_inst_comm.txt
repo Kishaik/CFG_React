@@ -1,0 +1,11 @@
+npm install yarn --global
+
+yarn
+
+yarn global add serve
+
+npm install -g serve
+
+serve
+
+serve -l 8080
